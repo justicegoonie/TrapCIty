@@ -1,0 +1,10 @@
+{
+  "name": "trapcity",
+  "version": "1.0.0",
+  "description": "Video game for multiple consoles",
+  "main": "index.js",
+  "repository": "https://github.com/justicegoonie/TrapCIty.git",
+  "author": "Justice Carter <justicegoonie@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
